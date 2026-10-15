@@ -1,0 +1,20 @@
+{
+  "name": "sinatra-dev",
+  "displayName": "sinatra.dev",
+  "version": "1.0.0",
+  "description": "Hand coding tasks to sinatra.dev's hosted agent from Claude: start a task on a connected GitHub repository, read its answers and questions, reply, and stop it. The work comes back as a draft pull request.",
+  "author": {
+    "name": "sinatra.dev",
+    "email": "contact@sinatra.dev",
+    "url": "https://www.sinatra.dev"
+  },
+  "homepage": "https://docs.sinatra.dev/docs/cli-and-api#mcp-server",
+  "repository": "https://github.com/sinatra-dev/integrations",
+  "license": "MIT",
+  "keywords": ["coding-agent", "background-agent", "github", "pull-requests", "linear", "slack"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://docs.sinatra.dev/docs/cli-and-api#mcp-server",
+  "supportUrl": "https://www.sinatra.dev/support",
+  "privacyPolicyUrl": "https://www.sinatra.dev/privacy",
+  "termsOfServiceUrl": "https://www.sinatra.dev/terms"
+}

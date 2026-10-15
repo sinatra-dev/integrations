@@ -1,0 +1,6 @@
+{
+  "sinatra": {
+    "type": "http",
+    "url": "https://api.sinatra.dev/v1/mcp"
+  }
+}
