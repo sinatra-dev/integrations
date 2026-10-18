@@ -1,6 +1,6 @@
 # sinatra.dev for Claude
 
-Hand coding tasks to [sinatra.dev](https://www.sinatra.dev) without leaving Claude. Sinatra is a hosted coding agent: each task runs in its own sandbox on Sinatra's side, works on a GitHub repository connected to your Sinatra workspace, and opens a draft pull request for your team to review and merge. Sinatra never merges or deploys.
+Hand coding tasks to [sinatra.dev](https://www.sinatra.dev) without leaving Claude. Sinatra is a hosted AI coding agent that turns Linear and GitHub issues into pull requests: each task runs in its own sandbox on Sinatra's side, works on a GitHub repository connected to your Sinatra workspace, and opens a draft pull request for your team to review and merge. Sinatra never merges or deploys.
 
 This plugin adds two things to Claude Code (and to Claude apps that load plugins):
 
@@ -56,6 +56,7 @@ The plugin contains no scripts, hooks or local servers. It only points Claude at
 ## Links
 
 - Docs: [CLI, MCP and API](https://docs.sinatra.dev/docs/cli-and-api#mcp-server)
+- SDKs: [Node.js / TypeScript](https://github.com/sinatra-dev/sinatra-node), [Python](https://github.com/sinatra-dev/sinatra-python) and [Go](https://github.com/sinatra-dev/sinatra-go)
 - Privacy policy: [sinatra.dev/privacy](https://www.sinatra.dev/privacy)
 - Terms: [sinatra.dev/terms](https://www.sinatra.dev/terms)
 - Security reports: [sinatra.dev/security](https://www.sinatra.dev/security)
